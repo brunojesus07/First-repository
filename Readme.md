@@ -2,8 +2,5 @@
 
 Este é um repositorio para teste.
 
-Editando novamente para aprender.
-
-
-Estou aprendendo com o curso...
+Apenas o começo de uma jornada longa na programação.
 
